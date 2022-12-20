@@ -1,0 +1,11 @@
+.flex-container {
+  display: flex;
+}
+
+figcaption {
+    color: grey;
+}
+
+figcaption {
+    display: block;
+}
